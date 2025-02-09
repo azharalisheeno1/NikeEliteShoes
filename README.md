@@ -13,3 +13,6 @@ React.js – Component-based architecture for maintainability
 Tailwind CSS – Utility-first styling for rapid development
 Framer Motion – High-performance animations
 
+![Image](https://github.com/user-attachments/assets/9f1f07c6-f243-4697-bcb9-ca432cfa3fae)
+![Image](https://github.com/user-attachments/assets/03fa9494-e8ea-44ef-8468-18d4d1fb94ac)
+
