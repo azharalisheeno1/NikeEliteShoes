@@ -12,3 +12,6 @@ A fully responsive Nike Landing Page built with React.js, Tailwind CSS, and Fram
 React.js – Component-based architecture for maintainability
 Tailwind CSS – Utility-first styling for rapid development
 Framer Motion – High-performance animations
+
+<!-- Uploading "1.png"... -->
+<!-- Uploading "localhost_5173_ (1).png"... -->
